@@ -72,7 +72,7 @@ st.subheader("Certifications : https://hariramcertifications.streamlit.app/",div
 st.write("")
 st.write("")
 st.write("")
-st.subheader("Live Projects: www.google.com",divider="rainbow")
+st.subheader("Live Projects: https://list-of-projects.streamlit.app/ ",divider="rainbow")
 
 
 st.write("")
