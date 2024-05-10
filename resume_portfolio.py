@@ -30,6 +30,7 @@ st.write("")
 st.write("")
 st.write("")
 st.subheader("About Me",divider="rainbow")
+"Hey there, I'm Hari Ram Selvaraj, a tech enthusiast with a knack for turning code into laughter, well not laughter but something fun. With Python as my trusty sidekick and innovation as my driving force. When I'm not busy coding up a storm, catch me plotting my next chess move or scoring goals on the football field with a grin plastered on my face. in short; i love to play chess and soccer :)"
 st.write("")
 st.write("")
 
@@ -72,7 +73,7 @@ st.write("")
 st.write("")
 st.write("")
 st.subheader("Live Projects: https://list-of-projects.streamlit.app/ ",divider="rainbow")
-"The above link would take you to working projects that I worked on after courses and books I read from online platforms and O'Reilly reading platform. Take a look at it, it should be worht a visit."
+"The above link would take you to working projects that I worked on after courses and books I read from online platforms and O'Reilly reading platform. Take a look at it, it should be worth a visit."
 
 
 st.write("")
