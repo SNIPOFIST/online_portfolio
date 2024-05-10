@@ -37,7 +37,7 @@ st.text("Born and brought up in silicon city of india, gave me an opportunity to
 st.text("I Love foot ball, Playing guitar and also to Automate stuffs thats boring to ease the boredom away")
 st.text("buy me a coffee and it would be a good start for a never ending friendship ;)")
 
-st.write(""
+st.write("")
 st.write("")
 
 st.write("")
