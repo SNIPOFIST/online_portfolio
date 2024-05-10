@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # PAGE CONFG
-st.set_page_config(page_title="Hari Ram Selvaraj's Portfolio", page_icon="sun", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Hari Ram Selvaraj's Portfolio", page_icon="moon", layout="wide", initial_sidebar_state="expanded")
 
 col_1 , col_2, col_3 = st.columns(3)
 with col_1:
