@@ -43,7 +43,7 @@ st.write("")
 
 
 # Academics 
-st.subheader("Bachelors in Computer Applications - New Horizon coLLEGE",divider="rainbow")
+st.subheader("Bachelors in Computer Applications - New Horizon college",divider="rainbow")
 "My tech journey and passion in Computer Science began at New Horizon College, Bengaluru, where I earned my stripes with a Bachelor of Computer Applications; Pure computer science, focusing on the Logical and Computation techniques supported by the subjects, Operational Research and Theory of Computations. I could say I'm Happy to get 9.08 grade for 10. I delved deep into Python puzzles and trained myself well in data Structures and Algorithms from 4 different programming languages. Those academic adventures? They laid the groundwork for the wild tech ride ahead."
 st.write("")
 st.write("")
