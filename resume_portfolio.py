@@ -11,7 +11,7 @@ with col_1:
     st.write("")
     st.title("Hari Ram Selvaraj")
     st.caption("Associate Software Engineer | TATA ELXSI ")
-    st.write(")
+    st.write("")
     st.markdown("PH : +91 89714 56478 | LinkedIn -  [Hari Ram Selvaraj](https://www.linkedin.com/in/hariramselvaraj/)")
     st.write(" 27/A, SBI Bank road, Doddanekundi,")
     st.write(" Marathalli, Bangalore, Karnataka - 560037")
