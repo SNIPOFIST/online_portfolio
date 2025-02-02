@@ -32,7 +32,7 @@ st.write("")
 # Academics Masters
 st.subheader("Masters in Applied Data Science - Syracuse University 🍊 Aug'24 - May'26")
 st.divider()
-st.image(image='https://ischool.syracuse.edu/wp-content/uploads/IST-Logo-Horizontal-3.jpg')
+st.image(image='Syracuse_Linkedin_background.jpeg')
 # Syracuse University Background Image
 # Define a container
 with st.container():
