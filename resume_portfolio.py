@@ -32,7 +32,7 @@ st.write("")
 # Academics Masters
 st.subheader("Masters in Applied Data Science - Syracuse University 🍊 Aug'24 - May'26")
 st.divider()
-st.image(image='https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg')
+st.image(image='https://media.licdn.com/dms/image/v2/C4D1BAQF4HgEQDAbSIQ/company-background_10000/company-background_10000/0/1603480140637/syracuse_university_cover?e=2147483647&v=beta&t=_pLpc6UdxbWn18eJK2fGwp2iWYaR6yK6ScG3C8ka3Kc', cpation='Syracuse University Logo')
 # Syracuse University Background Image
 # Define a container
 with st.container():
@@ -40,7 +40,7 @@ with st.container():
     st.markdown("""
         <style>
             .my-syracuse-container {
-                background-image: url('https://media.licdn.com/dms/image/v2/C4D1BAQF4HgEQDAbSIQ/company-background_10000/company-background_10000/0/1603480140637/syracuse_university_cover?e=1731826800&v=beta&t=VpdMGQ3GiVa8wT8xP6gqRQzxDTjkx2s3iuSD_WdT5YQ');
+                background-image: url('/images/4HURt5EyqJLPhQ2hH4fOT2-mgNM=/5436/width-1300/hall-of-languages-winter-2025.jpg');
                 background-size: auto;
                 background-position: center;
                 padding: 80px;
