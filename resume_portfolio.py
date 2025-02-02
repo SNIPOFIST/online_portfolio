@@ -32,7 +32,7 @@ st.write("")
 # Academics Masters
 st.subheader("Masters in Applied Data Science - Syracuse University 🍊 Aug'24 - May'26")
 st.divider()
-st.image(image='Syracuse_Linkedin_background.jpeg', caption='Syracuse University Logo')
+st.image(image='https://ischool.syracuse.edu/wp-content/uploads/IST-Logo-Horizontal-3.jpg')
 # Syracuse University Background Image
 # Define a container
 with st.container():
@@ -40,7 +40,7 @@ with st.container():
     st.markdown("""
         <style>
             .my-syracuse-container {
-                background-image: url('https://static.cdn.syr.edu/static/www/original_images/hall-of-languages.jpg');
+                background-image: url('Syracuse_Linkedin_background.jpeg');
                 background-size: auto;
                 background-position: center;
                 padding: 80px;
