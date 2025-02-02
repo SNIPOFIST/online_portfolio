@@ -13,11 +13,11 @@ with col_1:
     st.caption("Student in ***Masters of Applied Data Science*** at ***Syracuse University*** | Former - Associate Software Engineer | TATA ELXSI, bangalore India ")
     st.write("")
     st.markdown("***LinkedIn -  [Hari Ram Selvaraj](https://www.linkedin.com/in/hariramselvaraj/)***")
-    st.markdown("***📍 Syracuse - New York***")
+    st.markdown("***📍 Syracuse, US***")
 
 
 with col_3:
-    st.image(image='https://media.licdn.com/dms/image/v2/D5603AQHEqtt9dYBA3g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726067421077?e=1736985600&v=beta&t=vW3bq2Rl8MvRM0zNjoKtvBpkmJubT6749iuO9mfN39E', width=350)
+    st.image(image='Linkedin_image_hari.jpeg', width=350)
 
 # City place grew up etc
 st.write("")
