@@ -40,7 +40,7 @@ with st.container():
     st.markdown("""
         <style>
             .my-syracuse-container {
-                background-image: url('Syracuse_Linkedin_background.jpeg');
+                background-image: url('Syracuse_Linkedin_background.jpeg', width=350);
                 background-size: auto;
                 background-position: center;
                 padding: 80px;
